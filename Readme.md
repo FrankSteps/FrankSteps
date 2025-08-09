@@ -33,17 +33,3 @@ I use linux since 2021. I use Arch btw...
   <img align="center" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 </div>
 
-## My social medias
-I don't use my social media much.
-<div style="display: inline_block"><br>
-  <a href="https://www.youtube.com/@Frank_Steps" target="_blank">
-    <img align="center" alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-  <a href="https://discord.gg/RJvd6tBh" target="_blank">
-    <img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  <a href="https://open.spotify.com/artist/6Ow1TOWQonC9AVL3WxHy3d" target="_blank">
-    <img align="center" alt="Discord" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-  </a>
-</div>
-
