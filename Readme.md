@@ -15,15 +15,14 @@
   </tr>
 </table>
 
-
-
-
 <div>
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=FrankSteps&show_icons-true&theme=dracula&include_all_commits=true&count_private=true"/>  
-  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankSteps&layout=compact&lang_count=16&theme=dracula"/>  
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=FrankSteps&show_icons-true&theme=dracula&include_all_commits=true&count_private=true"/>  
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankSteps&layout=compact&lang_count=16&theme=dracula"/>  
 </div>
 
-##
+## Technologies & Tools I Use Regularly
+A collection of programming languages, frameworks, and platforms that I work with in my projects.
+
 <div style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -35,6 +34,9 @@
   <img align="center" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
 </div>
+
+## Operating Systems I Use Frequently
+The main operating systems I work with on a daily basis, for development, testing, and personal use.
 
 <div>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
