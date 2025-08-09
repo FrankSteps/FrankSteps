@@ -24,6 +24,7 @@ I have a great passion for electromagnetism and mathematical logic and intend to
 </div>
 
 ## OS currently in use
+I use linux since 2021. I use Arch btw...
 <div style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=whit">
@@ -33,6 +34,7 @@ I have a great passion for electromagnetism and mathematical logic and intend to
 </div>
 
 ## My social medias
+I don't use my social media much.
 <div style="display: inline_block"><br>
   <a href="https://www.youtube.com/@Frank_Steps" target="_blank">
     <img align="center" alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
