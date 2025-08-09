@@ -36,9 +36,9 @@ I use linux since 2021. I use Arch btw...
     <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
   </div>
 
-  <!-- GIF R2D2 já existente, movido -->
+  <!-- GIF posicionado sobre a linha branca -->
   <img src="https://darksiderconfessions.blog/wp-content/uploads/2020/08/r2d2saddestmoment.gif" 
-       style="max-height: 80px; z-index: 10; position: relative; margin-left: 10px;">
+       style="position: absolute; top: -20px; right: 0; max-height: 120px; z-index: 10;">
 </div>
 
 
