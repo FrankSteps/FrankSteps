@@ -11,3 +11,8 @@
   <img align="center" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="https://www.youtube.com/@Frank_Steps" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</div>
