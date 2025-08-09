@@ -23,26 +23,23 @@ I have a great passion for electromagnetism and mathematical logic and intend to
   <img align="center" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
 </div>
 
-![R2D2 Sad Moment](https://darksiderconfessions.blog/wp-content/uploads/2020/08/r2d2saddestmoment.gif)
-
 ## OS currently in use
 I use linux since 2021. I use Arch btw...
 
 <div style="display: flex; align-items: center; gap: 15px; position: relative;">
   <!-- Botões -->
   <div>
-    <img align="center" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+    <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
   </div>
 
-  <!-- GIF R2D2 -->
+  <!-- GIF R2D2 já existente, movido -->
   <img src="https://darksiderconfessions.blog/wp-content/uploads/2020/08/r2d2saddestmoment.gif" 
        style="max-height: 80px; z-index: 10; position: relative; margin-left: 10px;">
 </div>
-
 
 
 
