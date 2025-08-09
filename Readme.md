@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://darksiderconfessions.blog/wp-content/uploads/2020/08/r2d2saddestmoment.gif" width="300">
+      <img src="https://darksiderconfessions.blog/wp-content/uploads/2020/08/r2d2saddestmoment.gif" width="400">
     </td>
     <td>
       <h4>
