@@ -2,8 +2,8 @@ name: Generate contribution snake SVG
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # roda todo dia à meia-noite
-  workflow_dispatch:      # permite rodar manualmente
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -20,28 +20,10 @@ jobs:
       with:
         node-version: '16'
 
-    - name: Debug curl download
+    - name: Debug download content
       run: |
         curl -v -L https://github.com/IonicaBizau/github-contribution-grid-snake/archive/refs/heads/main.zip -o snake.zip
-        ls -lh snake.zip
-        file snake.zip
+        head -n 20 snake.zip
 
-    - name: Unzip downloaded file
-      run: unzip snake.zip
+    # Não tenta descompactar ainda, vamos ver o conteúdo primeiro
 
-    - name: Generate SVG
-      run: |
-        node github-contribution-grid-snake-main/index.js -u ${{ github.repository_owner }} -o github-contribution-grid-snake.svg
-
-    - name: Switch to output branch
-      run: |
-        git config user.name "github-actions"
-        git config user.email "actions@github.com"
-        git checkout -B output
-
-    - name: Move SVG and commit
-      run: |
-        mv github-contribution-grid-snake.svg .
-        git add github-contribution-grid-snake.svg
-        git commit -m "Update snake SVG" || echo "No changes to commit"
-        git push origin output --force
