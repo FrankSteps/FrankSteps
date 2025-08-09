@@ -33,7 +33,6 @@ I use linux since 2021. I use Arch btw...
   <img align="center" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 </div>
 
-![Snake animation](./github-contribution-grid-snake.svg)
 
 
 
