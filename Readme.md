@@ -1,4 +1,8 @@
 # Welcome to my Github page!
+
+Hey there! My name is Francisco, but everyone calls me Frank. I am Brazilian, 18 years old, and currently pursuing a degree at UFS (Federal University of Sergipe). I have experience with electronics and project development with embedded systems such as Arduino. I have already registered trademarks with the INPI and intend to soon conduct my own research through university professors in Brazil. 
+I have a great passion for electromagnetism and mathematical logic and intend to learn the Haskell language soon.
+
 <div>
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=FrankSteps&show_icons-true&theme=dracula&include_all_commits=true&count_private=true"/>  
   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankSteps&layout=compact&lang_count=16&theme=dracula"/>  
