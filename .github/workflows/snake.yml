@@ -22,13 +22,12 @@ jobs:
 
     - name: Download github-contribution-grid-snake zip
       run: |
-        curl -L https://github.com/IonicaBizau/github-contribution-grid-snake/archive/refs/heads/master.zip -o snake.zip
+        curl -L https://github.com/IonicaBizau/github-contribution-grid-snake/archive/refs/heads/main.zip -o snake.zip
         unzip snake.zip
-        ls
 
     - name: Generate SVG
       run: |
-        node github-contribution-grid-snake-master/index.js -u ${{ github.repository_owner }} -o github-contribution-grid-snake.svg
+        node github-contribution-grid-snake-main/index.js -u ${{ github.repository_owner }} -o github-contribution-grid-snake.svg
 
     - name: Switch to output branch
       run: |
@@ -42,6 +41,7 @@ jobs:
         git add github-contribution-grid-snake.svg
         git commit -m "Update snake SVG" || echo "No changes to commit"
         git push origin output --force
+
 
 
 
