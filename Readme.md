@@ -1,5 +1,7 @@
 # Welcome to my Github page!
 
+![R2D2 Sad Moment](https://darksiderconfessions.blog/wp-content/uploads/2020/08/r2d2saddestmoment.gif)
+
 <h4>
   Hey there! My name is Francisco, but everyone calls me Frank. I am Brazilian, 18 years old, and currently pursuing a degree at UFS (Federal University of Sergipe). I have experience with electronics and project development with embedded systems such as Arduino. I have already registered trademarks with the INPI and intend to soon conduct my own research through university professors in Brazil. 
 I have a great passion for electromagnetism and mathematical logic and intend to learn the Haskell language soon.
@@ -23,20 +25,15 @@ I have a great passion for electromagnetism and mathematical logic and intend to
   <img align="center" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
 </div>
 
-<div style="position: relative; display: flex; align-items: center;">
-  <!-- Botões -->
-  <div>
-    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-    <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
-  </div>
-
-  <!-- GIF grande à direita, sobrepondo -->
-  <img src="https://darksiderconfessions.blog/wp-content/uploads/2020/08/r2d2saddestmoment.gif" 
-       style="position: absolute; right: -20px; top: -40px; height: 150px; z-index: 10;">
+<div>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 </div>
+
+
 
 
 
