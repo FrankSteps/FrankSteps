@@ -1,0 +1,24 @@
+name: Snake animation
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # todo dia à meia-noite
+  workflow_dispatch:     # permite rodar manualmente também
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Run snake animation script
+        run: |
+          curl -s https://raw.githubusercontent.com/FrankSteps/FrankSteps/main/snake.sh | bash
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'actions@github.com'
+          git add README.md
+          git commit -m "Update snake animation" || echo "No changes to commit"
+          git push
