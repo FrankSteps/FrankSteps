@@ -16,8 +16,8 @@
 </table>
 
 <div>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=FrankSteps&show_icons-true&theme=dracula&include_all_commits=true&count_private=true"/>  
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankSteps&layout=compact&lang_count=16&theme=dracula"/>  
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=FrankSteps&show_icons-true&theme=dracula&include_all_commits=true&count_private=true"/>  
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankSteps&layout=compact&lang_count=16&theme=dracula"/>  
 </div>
 
 ## Technologies & Tools I Use Regularly
