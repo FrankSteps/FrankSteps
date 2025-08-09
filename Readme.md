@@ -31,9 +31,9 @@ I use linux since 2021. I use Arch btw...
   <img align="center" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
-  ![R2D2 Sad Moment](https://darksiderconfessions.blog/wp-content/uploads/2020/08/r2d2saddestmoment.gif)
 </div>
 
+![R2D2 Sad Moment](https://darksiderconfessions.blog/wp-content/uploads/2020/08/r2d2saddestmoment.gif)
 
 
 
