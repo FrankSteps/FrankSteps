@@ -1,15 +1,9 @@
 # Welcome to my Github page!
 
-<style>
-  .justificado {
-    text-align: justify;
-  }
-</style>
-
 <table>
   <tr>
     <td>
-      <h4 class="justificado">
+      <h4 style="text-align: justify; text-align-last: left;">
             Hey there! My name is Francisco, but everyone calls me Frank. I am Brazilian, 18 years old, and currently pursuing a degree at UFS (Federal University of Sergipe). 
         I have experience with electronics and project development with embedded systems such as Arduino. I have already registered trademarks with the INPI and intend to soon conduct my own research through university professors in Brazil. 
         I have a great passion for electromagnetism and mathematical logic and intend to learn the Haskell language soon.
