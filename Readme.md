@@ -21,7 +21,7 @@
 </div>
 
 
-## Technologies & Tools I Use Regularly
+## Technologies & Tools I Use Regularly:
 A collection of programming languages, frameworks, and platforms that I work with in my projects.
 
 <div style="display: inline_block">
@@ -36,7 +36,7 @@ A collection of programming languages, frameworks, and platforms that I work wit
   <img align="center" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
 </div>
 
-## Operating Systems I Use Frequently
+## Operating Systems I Use Frequently:
 The main operating systems I work with on a daily basis, for development, testing, and personal use.
 
 <div>
