@@ -34,7 +34,7 @@ A collection of programming languages, frameworks, and platforms that I work wit
   <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/LaTex-00b2af?style=for-the-badge&logo=latex&logoColor=black">
+  <img align="center" src="https://img.shields.io/badge/LaTex-00b2af?style=for-the-badge&logo=latex&logoColor=write">
   <img align="center" src="https://img.shields.io/badge/Haskell-43265c?style=for-the-badge&logo=haskell&logoColor=white">
 </div>
 
