@@ -17,7 +17,7 @@
 
 <div style="display: flex; gap: 1%; align-items: center;">
      <img src="https://github-readme-stats.vercel.app/api?username=FrankSteps&show_icons-true&theme=dracula&include_all_commits=true&count_private=true" style="flex: 1; height: 171px; object-fit: contain;">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankSteps&layout=compact&lang_count=16&theme=black" style="flex: 1; height: 171px; object-fit: contain;">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankSteps&layout=compact&lang_count=16&theme="dracula"style="flex: 1; height: 171px; object-fit: contain;">
 </div>
 
 
