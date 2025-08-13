@@ -36,6 +36,7 @@ A collection of programming languages, frameworks, and platforms that I work wit
   <img align="center" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/LaTex-00b2af?style=for-the-badge&logo=latex&logoColor=write">
   <img align="center" src="https://img.shields.io/badge/Haskell-43265c?style=for-the-badge&logo=haskell&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/GarageBand-FF6600?style=for-the-badge&logo=guitar&logoColor=white">
 </div>
 
 ## Operating Systems I Use Frequently:
