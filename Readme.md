@@ -22,7 +22,7 @@
 
 
 ## Technologies & Tools I Use Regularly:
-A collection of programming languages, frameworks, and platforms that I work with in my projects.
+ A collection of programming languages, frameworks, and platforms that I work with in my projects.
 
 <div style="display: inline_block">
   <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -40,7 +40,7 @@ A collection of programming languages, frameworks, and platforms that I work wit
 </div>
 
 ## Operating Systems I Use Frequently:
-The main operating systems I work with on a daily basis, for development, testing, and personal use.
+ The main operating systems I work with on a daily basis, for development, testing, and personal use.
 
 <div>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft&logoColor=white">
