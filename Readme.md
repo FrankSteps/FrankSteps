@@ -16,10 +16,9 @@
 </table>
 
 <div style="display: flex; gap: 1%; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=FrankSteps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="flex: 1; height: 167px; object-fit: contain;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankSteps&layout=compact&lang_count=16&theme=tokyonight" style="flex: 1; height: 167px; object-fit: contain;">
+    <img src="https://github-readme-stats.vercel.app/api?username=FrankSteps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1" style="flex: 1; height: 167px; object-fit: contain;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankSteps&layout=compact&lang_count=16&theme=tokyonight&cache_seconds=1" style="flex: 1; height: 167px; object-fit: contain;">
 </div>
-
 
 ## Technologies & Tools I Use Regularly:
  A collection of programming languages, frameworks, and platforms that I work with in my projects.
