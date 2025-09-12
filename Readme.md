@@ -21,6 +21,7 @@
 </div>
 
 <img src="vv3.gif">
+
 ## Technologies & Tools I Use Regularly:
  A collection of programming languages, frameworks, and platforms that I work with in my projects.
 
@@ -42,6 +43,7 @@
 </div>
 
 <img src="vv3.gif">
+
 ## Operating Systems I Use Frequently:
  The main operating systems I work with on a daily basis, for development, testing, and personal use.
 
@@ -55,7 +57,6 @@
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
   <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white">
 </div>
-<img src="vv3.gif">
 
 
 
