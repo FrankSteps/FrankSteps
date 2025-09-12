@@ -20,8 +20,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankSteps&layout=compact&lang_count=16&theme=tokyonight&cache_seconds=1" style="flex: 1; height: 170px; object-fit: contain;">
 </div>
 
-<img src="">
-
+<img src="vv3.gif">
 ## Technologies & Tools I Use Regularly:
  A collection of programming languages, frameworks, and platforms that I work with in my projects.
 
@@ -42,6 +41,7 @@
   <img align="center" src="https://img.shields.io/badge/GarageBand-CC5200?style=for-the-badge&logo=apple&logoColor=white">
 </div>
 
+<img src="vv3.gif">
 ## Operating Systems I Use Frequently:
  The main operating systems I work with on a daily basis, for development, testing, and personal use.
 
@@ -55,6 +55,7 @@
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
   <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white">
 </div>
+<img src="vv3.gif">
 
 
 
