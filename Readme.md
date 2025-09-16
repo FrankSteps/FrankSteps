@@ -17,7 +17,7 @@
 
 <div style="display: flex; gap: 1%; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=FrankSteps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1&ts=1694612345" style="flex: 1; height: 170px; object-fit: contain;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankSteps&layout=compact&lang_count=16&theme=tokyonight&cache_seconds=1&ts=1694612345" style="flex: 1; height: 170px; object-fit: contain;">
+    <img src="https://camo.githubusercontent.com/bcd2ae6e6bd17077c15f3598c1f6b663cd38c05a42c3996b3844419e18895b4d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4672616e6b5374657073266c61796f75743d636f6d70616374266c616e675f636f756e743d3136267468656d653d746f6b796f6e696768742663616368655f7365636f6e64733d312674733d31363934363132333435" style="flex: 1; height: 170px; object-fit: contain;">
 </div>
 
 <img src="vv3.gif">
