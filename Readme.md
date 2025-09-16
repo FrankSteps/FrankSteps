@@ -36,7 +36,7 @@
   <img align="center" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/PIC-A8B9CC?style=for-the-badge&logo=pic&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/PIC-294172?style=for-the-badge&logo=pic&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/LaTex-00b2af?style=for-the-badge&logo=latex&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Elixir-4E2A8E?style=for-the-badge&logo=elixir&logoColor=white">
