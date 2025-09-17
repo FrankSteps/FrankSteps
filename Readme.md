@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/Kubuntu-0077C4?style=for-the-badge&logo=kubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/CachyOS-43265c?style=for-the-badge&logo=arch-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Cachy_OS-43265c?style=for-the-badge&logo=arch-linux&logoColor=white">
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
   <img src="https://img.shields.io/badge/Mint-87CF3E?style=for-the-badge&logo=mint&logoColor=white">
   <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white">
