@@ -48,7 +48,7 @@
  The main operating systems I work with on a daily basis, for development, testing, and personal use.
 
 <div>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/Raspberry%20Pi%20OS-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
   <img src="https://img.shields.io/badge/Kubuntu-0077C4?style=for-the-badge&logo=kubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
