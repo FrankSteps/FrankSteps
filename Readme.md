@@ -20,8 +20,6 @@
     <img src="https://camo.githubusercontent.com/bcd2ae6e6bd17077c15f3598c1f6b663cd38c05a42c3996b3844419e18895b4d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4672616e6b5374657073266c61796f75743d636f6d70616374266c616e675f636f756e743d3136267468656d653d746f6b796f6e696768742663616368655f7365636f6e64733d312674733d31363934363132333435" style="flex: 1; height: 170px; object-fit: contain;">
 </div>
 
-<img src="vv3.gif">
-
 ## Technologies & Tools I Use Regularly:
  A collection of programming languages, frameworks, and platforms that I work with in my projects.
 
@@ -41,8 +39,6 @@
   <img align="center" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/GarageBand-CC5200?style=for-the-badge&logo=apple&logoColor=white">
 </div>
-
-<img src="vv3.gif">
 
 ## Operating Systems I Use Frequently:
  The main operating systems I work with on a daily basis, for development, testing, and personal use.
