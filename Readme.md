@@ -17,7 +17,7 @@
 
 <div style="display: flex; gap: 1%; align-items: center;">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=FrankSteps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=FrankSteps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false" 
     style="flex: 1; height: 170px; object-fit: contain;"
   >
   <img 
