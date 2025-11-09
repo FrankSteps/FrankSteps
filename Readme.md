@@ -26,6 +26,8 @@
   >
 </div>
 
+<img src="vv3.gif">
+
 ## Technologies & Tools I Use Regularly:
  A collection of programming languages, frameworks, and platforms that I work with in my projects.
 
