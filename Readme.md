@@ -64,6 +64,8 @@
   <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white">
 </div>
 
+<img alt="Profile Views" align="center" src="https://komarev.com/ghpvc/?username=franksteps&style=flat-square">
+
 <img src="vv3.gif">
 
 
