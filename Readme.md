@@ -26,7 +26,7 @@
   >
 </div>
 
-<img alt="Profile Views" align="center" src="https://komarev.com/ghpvc/?username=franksteps&style=flat-square">
+<!--<img alt="Profile Views" align="center" src="https://komarev.com/ghpvc/?username=franksteps&style=flat-square">-->
 
 <img src="vv3.gif">
 
