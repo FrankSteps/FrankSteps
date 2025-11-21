@@ -21,9 +21,10 @@
     style="flex: 1; height: 170px; object-fit: contain;"
   >
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankSteps&layout=compact&langs_count=16&theme=tokyonight" 
-    style="flex: 1; height: 170px; object-fit: contain;"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankSteps&layout=compact&langs_count=8&theme=tokyonight"
+  style="flex: 1; height: 170px; object-fit: contain;"
   >
+
 </div>
 
 <!--<img alt="Profile Views" align="center" src="https://komarev.com/ghpvc/?username=franksteps&style=flat-square">-->
