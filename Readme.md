@@ -39,7 +39,6 @@
   <img align="center" src="https://img.shields.io/badge/PIC-294172?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/LabView-FFD200?style=for-the-badge&logo=labview&logoColor=black">
   <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <!-- <img align="center" src="https://img.shields.io/badge/Elixir-4E2A8E?style=for-the-badge&logo=elixir&logoColor=white"> -->
   <img align="center" src="https://img.shields.io/badge/Haskell-5E5086?style=for-the-badge&logo=haskell&logoColor=white">
