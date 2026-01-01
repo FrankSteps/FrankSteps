@@ -1,6 +1,6 @@
 # Welcome to my GitHub Page!
 
-Boas festas 👋 
+Feliz ano novo e seja(m) bem-vindo(s) a 2026!
 <br>
 
 
