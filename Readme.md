@@ -1,3 +1,3 @@
 # Welcome to my GitHub Page!
 
-Obrigado pelos 40 seguidores! 😉
+40 followers! Thanks very much!
