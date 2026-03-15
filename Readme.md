@@ -7,11 +7,9 @@ Sou graduando em Ciência da Computação pela Universidade Federal de Sergipe, 
 Atualmente estudo temas como:
 
 - Cálculo Lambda
-- Teoria dos Tipos
 - Máquinas de Turing
-- Computação Formal
+- Paradigmas da programação
 - Verificação de Programas com ROCQ / Coq
-- Programação Funcional
 - Sistemas embarcados
 - Eletrônica digital e analógica
 - Matemática aplicada e computacional
@@ -26,15 +24,11 @@ Linguagens:
 
 Ferramentas e ambientes:
 
-- Git
-- GitHub
+- Git & GitHub
 - Linux
 - LaTeX
 - ROCQ / Coq
 - Raylib
-- HTML
-- CSS
-- Markdown
 - Arduino
 
 ## O que eu costumo desenvolver
@@ -42,11 +36,10 @@ Ferramentas e ambientes:
 Meus repositórios geralmente se dividem em alguns tipos de projetos:
 
 - Experimentos relacionados à teoria da computação
-- Exercícios e estudos de programação funcional
+- Repositórios de estudo aplicado sobre linguagens e paradigmas de programação
 - Simuladores de circuitos digitais
 - Pequenos programas gráficos usando Raylib
 - Experimentos com sistemas embarcados usando Arduino
-- Repositórios de estudo aplicado sobre linguagens e paradigmas de programação
 
 ---
 
