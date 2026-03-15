@@ -38,7 +38,6 @@ Meus repositórios geralmente se dividem em alguns tipos de projetos:
 - Experimentos relacionados à teoria da computação
 - Repositórios de estudo aplicado sobre linguagens e paradigmas de programação
 - Simuladores de circuitos digitais
-- Pequenos programas gráficos usando Raylib
 - Experimentos com sistemas embarcados usando Arduino
 
 ---
