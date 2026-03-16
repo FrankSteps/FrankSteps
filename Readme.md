@@ -1,6 +1,6 @@
 # Seja bem-vindo à minha página no GitHub!
 
-Sou graduando em Ciência da Computação pela Universidade Federal de Sergipe, com interesse em teoria da computação, paradigmas de programação e métodos formais.
+Sou graduando em Ciência da Computação pela Universidade Federal de Sergipe, com interesse em teoria da computação, paradigmas de programação e métodos formais, mas com interesse genuino em elétrica, eletrônica e eletromagnetismo.  
 
 ## Sobre mim
 
@@ -21,14 +21,14 @@ Linguagens:
 - C/C++
 - Haskell
 - Python
+- JavaScript
 
 Ferramentas e ambientes:
 
 - Git & GitHub
 - Linux
-- LaTeX
+- LaTeX, HTML e CSS
 - ROCQ / Coq
-- Raylib
 - Arduino
 
 ## O que eu costumo desenvolver
