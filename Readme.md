@@ -9,6 +9,7 @@ Atualmente estudo temas como:
 - Cálculo Lambda
 - Máquinas de Turing
 - Paradigmas da programação
+- Teoria das linguagens
 - Verificação de Programas com ROCQ / Coq
 - Sistemas embarcados
 - Eletrônica digital e analógica
