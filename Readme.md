@@ -4,7 +4,7 @@ Sou graduando em Ciência da Computação pela Universidade Federal de Sergipe, 
 
 ## Sobre mim
 
-Atualmente estudo temas como:
+Atualmente me interesso por temas como:
 
 - Cálculo Lambda
 - Máquinas de Turing
@@ -13,6 +13,7 @@ Atualmente estudo temas como:
 - Verificação de Programas com ROCQ / Coq
 - Sistemas embarcados
 - Eletrônica digital e analógica
+- Alta tensão
 - Matemática aplicada e computacional
 
 ## Tecnologias que utilizo
