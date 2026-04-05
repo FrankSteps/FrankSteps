@@ -26,7 +26,7 @@ Atualmente me interesso por temas como:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://rocq-prover.org/_/ZWJmMWQyNWZhYzE0NWZjYzFiNzBmY2NmM2Q5MGU3MjQ/logos/logo-rocq-orange_white.svg" height="23"/>
+  <img src="https://avatars.githubusercontent.com/u/621198?s=280&v=4" height="40"/>
 </p>
 
 ### Ferramentas e ambientes
@@ -36,7 +36,7 @@ Atualmente me interesso por temas como:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/960px-Github-desktop-logo-symbol.svg.png" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TeXShop_icon.png/960px-TeXShop_icon.png?_=20150628071629" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Sublime_Text_3_logo.png/250px-Sublime_Text_3_logo.png" height="40"/>
