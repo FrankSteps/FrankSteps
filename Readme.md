@@ -45,6 +45,7 @@ Atualmente me interesso por temas como:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Fusion360_Logo.svg/500px-Fusion360_Logo.svg.png?_=20250830031414" height="40"/>
   <img src="https://images.seeklogo.com/logo-png/65/1/lightburn-logo-png_seeklogo-656370.png" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/PlatformIO_logo.svg/1280px-PlatformIO_logo.svg.png" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/330px-Raspberry_Pi_Logo.svg.png?_=20230605225001" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50"/>
 </p>
