@@ -1,24 +1,24 @@
-# Seja bem-vindo à minha página no GitHub!
+# Welcome to my GitHub page! 
 
-Sou graduando em Ciência da Computação pela Universidade Federal de Sergipe, com interesse em teoria da computação, paradigmas de programação e métodos formais, mas com interesse genuino em elétrica, eletrônica e eletromagnetismo.  
+I'm a Computer Science undergraduate at the Federal University of Sergipe, with interests in computability theory, programming paradigms and formal methods, but with genuine interest in electrical engineering, electronics and electromagnetism.
 
-## Sobre mim
+## About me
 
-Atualmente me interesso por temas como:
+I'm currently interested in topics such as:
 
-- Cálculo Lambda
-- Máquinas de Turing
-- Paradigmas da programação
-- Teoria das linguagens
-- Verificação de Programas com ROCQ / Coq
-- Sistemas embarcados
-- Eletrônica digital e analógica
-- Alta tensão
-- Matemática aplicada e computacional
+- Lambda Calculus
+- Turing Machines
+- Programming Paradigms
+- Theory of Languages
+- Program Verification with ROCQ / Coq
+- Embedded Systems
+- Digital and Analog Electronics
+- High Voltage
+- Applied and Computational Mathematics
 
-## Tecnologias que utilizo
+## Technologies I use
 
-### Linguagens
+### Languages
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
@@ -30,7 +30,7 @@ Atualmente me interesso por temas como:
   <img src="https://avatars.githubusercontent.com/u/621198?s=280&v=4" height="45"/>
 </p>
 
-### Ferramentas e ambientes
+### Tools and Environments
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
@@ -52,15 +52,15 @@ Atualmente me interesso por temas como:
 </p>
 
 
-## O que eu costumo desenvolver
+## What I usually develop
 
-Meus repositórios geralmente se dividem em alguns tipos de projetos:
+My repositories generally fall into a few types of projects:
 
-- Experimentos relacionados à teoria da computação
-- Repositórios de estudo aplicado sobre linguagens e paradigmas de programação
-- Simuladores de circuitos digitais
-- Experimentos com sistemas embarcados usando Arduino
+- Experiments related to computability theory
+- Applied study repositories on programming languages and paradigms
+- Digital circuit simulators
+- Experiments with embedded systems using Arduino
 
 ---
 
-Alguns projetos são experimentos mais sérios e com objetivo acadêmico, enquanto outros são apenas testes ou projetos feitos por curiosidade. Fique à vontade para conferir no que estou trabalhando atualmente!
+Some projects are more serious experiments with academic goals, while others are just tests or projects made out of curiosity. Feel free to check out what I'm currently working on!
