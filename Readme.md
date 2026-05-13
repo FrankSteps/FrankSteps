@@ -25,7 +25,6 @@ I'm currently interested in topics such as:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://www.trt5.jus.br/sites/default/files/legado/images/%7B107F40E0-2305-435F-B280-E05E05042F4C%7D_java-logo-500x307.png" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/621198?s=280&v=4" height="45"/>
 </p>
